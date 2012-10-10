@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  company: MyString
+  type: 
+  esrb: MyString
+  release_date: 2012-10-10
+  platforms: MyString
+  rating: 1
+  description: MyString
+  image_url: MyString
+
+two:
+  title: MyString
+  company: MyString
+  type: 
+  esrb: MyString
+  release_date: 2012-10-10
+  platforms: MyString
+  rating: 1
+  description: MyString
+  image_url: MyString

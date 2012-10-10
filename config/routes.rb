@@ -1,4 +1,6 @@
 Augment::Application.routes.draw do
+  resources :games
+
   devise_for :users
 
   # The priority is based upon order of creation:
